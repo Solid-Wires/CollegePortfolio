@@ -1,5 +1,6 @@
 // This is possible instead of include guards in this version
-#pragma once
+#ifndef SW_COMMON
+#define SW_COMMON
 
 //Includes from skeleton
 #include <pthread.h>
@@ -31,3 +32,5 @@ sbuf_t shared;
 // Since producer and consumer are so simple, they don't really need their own headers
 void *Producer(void *arg);
 void *Consumer(void *arg);
+
+#endif
