@@ -2,6 +2,4 @@
 Projects/*/.git
 
 # You don't need to see this
-pii_scrub_list.txt
-scan_pii.sh
-git-filter-repo
+PII_Tools
