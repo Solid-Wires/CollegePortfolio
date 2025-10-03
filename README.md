@@ -1,1 +1,3 @@
 This repository contains all college project repos that I worked on from 2023-2024. 
+
+This branch is supposed to be a fallback for in case I make mistakes in the repo. It's hard to undo history mistakes when using git subtree to add the histories (as you can't remove them directly from the Github remote master without deleting the entire repository otherwise). A workaround for this would likely be to duplicate this branch and then make this the default branch, delete the old master, then rename the new default to what the old master was called before in order to change the entire commit history back to the beginning.
