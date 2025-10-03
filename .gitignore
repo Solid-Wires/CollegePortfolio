@@ -1,0 +1,2 @@
+# Ignore repo histories for now until I can figure out what to do with them
+Projects/*/.git
