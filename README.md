@@ -1,3 +1,3 @@
 This repository is a collection containing all of my college project repositories that I worked on from 2023-2024. 
 
-I redacted my real name from each repo's commit history, as well as professor names primarily over privacy concerns, and secondarily as a git learning experience. If you have any inquiries, please reach out to me from either my persona's email (solid.wires@gmail.com) or my professional email, if you've identified it.
+I redacted my real name from each repo's commit history, as well as professor names primarily over privacy concerns, and secondarily as a git learning experience. If you have any inquiries, please reach out to me from either my persona's email (solid.wires@gmail.com) or my professional email, if you've identified it. The proof-of-ownership tag contains a GPG key hash, for which I will provide my public key with you to confirm my identity if you need it within reason.
