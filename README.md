@@ -1,1 +1,3 @@
-This repository contains all college project repos that I worked on from 2023-2024. 
+This repository is a collection containing all of my college project repositories that I worked on from 2023-2024. 
+
+I redacted my real name from each repo's commit history, as well as professor names primarily over privacy concerns, and secondarily as a git learning experience. If you have any inquiries, please reach out to me from either my persona's email (solid.wires@gmail.com) or my professional email, if you've identified it.
